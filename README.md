@@ -68,27 +68,6 @@ Ventas por día, semana, mes y año
 
 Top 10 de categorías, productos y talles más vendidos
 
-Módulo de rotación de productos: identifica artículos que se agotan rápido tras ser repuestos
-
-📌 Código de ejemplo: impresión de etiquetas en Python
-python
-Copy
-Edit
-from fpdf import FPDF
-import barcode
-from barcode.writer import ImageWriter
-
-# Generar código de barras y etiqueta
-code = "800012345"
-ean = barcode.get('code128', code, writer=ImageWriter())
-ean.save("barcode")
-
-pdf = FPDF("P", "mm", (50, 25))
-pdf.add_page()
-pdf.set_font("Arial", size=6)
-pdf.cell(0, 4, f"Código: {code}", ln=1, align="C")
-pdf.image("barcode.png", x=5, y=5, w=40)
-pdf.output("etiqueta.pdf")
 🧠 Aprendizajes destacados
 Estructura de base de datos en Excel con validación cruzada.
 
@@ -113,8 +92,5 @@ Optimizar lógicas
 
 Resolver errores complejos
 
-Usar ChatGPT no me hace menos capaz. Al contrario: me hace más ágil y resolutivo.
 
-¿Querés ver una demo o saber cómo lo migraría a Next.js?
-¡Contactame! Me encanta resolver problemas reales con tecnología.
 
