@@ -97,5 +97,11 @@ Optimizar lógicas
 
 Resolver errores complejos
 
+## ⚠️ Licencia y uso
+
+Este proyecto fue creado para fines educativos y de demostración personal.
+
+🛑 **No está permitido su uso comercial, redistribución o modificación con fines de lucro sin autorización del autor.**  
+📧 Contactame si querés adaptarlo o utilizarlo profesionalmente.
 
 
