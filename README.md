@@ -4,6 +4,11 @@ Este proyecto es un sistema ERP (Enterprise Resource Planning) desarrollado 100%
 💡 Este proyecto fue creado y mejorado progresivamente con ayuda de ChatGPT (OpenAI), combinando ideas, lógica de negocio y resolución de problemas en tiempo real.
 Esto no solo demuestra mi habilidad para programar, sino también para trabajar de manera autónoma, aprender en contexto y aplicar IA para maximizar resultados.
 
+
+🌟🌟 usuario: admin
+🖥🖥 contraseña: admin
+
+
 🎯 Objetivos del ERP
 Gestionar productos y variantes (por talle y color) con código base y código de barras único.
 
