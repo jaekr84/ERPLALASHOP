@@ -14,7 +14,7 @@ Gestionar productos y variantes (por talle y color) con código base y código d
 
 Registrar ventas, compras y movimientos de stock.
 
-Automatizar la impresión de tickets y la generación de etiquetas PDF con código de barras (formato Code128).
+Automatizar la impresión de tickets y la generación de etiquetas de 50mmx25mm PDF con código de barras  (formato Code128).
 
 Controlar caja diaria, medios de pago, y aplicar descuentos.
 
